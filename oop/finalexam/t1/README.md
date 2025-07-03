@@ -1,3 +1,4 @@
+<img width="1440" alt="Screenshot 2025-07-02 at 23 01 36" src="https://github.com/user-attachments/assets/7470d38c-712e-40d5-801a-4f2bc0b529ae" />
 # ListProcessor – Java Final Exam Project (OOP)
 
 ## 📦 Package
