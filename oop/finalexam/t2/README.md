@@ -1,4 +1,4 @@
-
+![mermaid-diagram-2025-07-03-002908](https://github.com/user-attachments/assets/03daf00c-d042-438b-a5ab-abced7020c43)
 ## 🧱 Class Breakdown
 
 ### 👨‍🎓 `Student.java`
@@ -33,4 +33,4 @@ newStudent.addLearningCourse(new LearningCourse(
     "Course topics go here..."
 ));
 universitySystem.addStudent(newStudent);
-![mermaid-diagram-2025-07-03-002908](https://github.com/user-attachments/assets/03daf00c-d042-438b-a5ab-abced7020c43)
+
