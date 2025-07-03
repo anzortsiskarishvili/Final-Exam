@@ -32,6 +32,7 @@
 ## 🚀 How It Works
 
 ```java
-ListProcessor processor = new ListProcessor();
+ListProcessor processor = new ListProcessor();<img width="1440" alt="Screenshot 2025-07-02 at 22 14 58" src="https://github.com/user-attachments/assets/8142b607-db90-4301-9651-ed50e4115bf1" />
+
 String result = processor.processLists();
 System.out.println(result);
